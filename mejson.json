@@ -1,0 +1,146 @@
+[
+    {
+        "honnan": "Nyiregyháza",
+        "indulas": "2023-10-12 10:11:00",
+        "hova": "Miskolc",
+        "erkezes": "2023-10-12 11:11:00"
+    },
+    {
+        "honnan": "Miskolc",
+        "indulas": "2023-10-12 12:10:00/2023-10-12 21:11:00",
+        "hova": "Eger",
+        "erkezes": "2023-10-12 13:10:00/2023-10-12 22:22:00"
+    },
+    {
+        "honnan": "Eger",
+        "indulas": "2023-10-12 14:11:00",
+        "hova": "Miskolc",
+        "erkezes": "2023-10-12 15:11:00"
+    },
+    {
+        "honnan": "Miskolc",
+        "indulas": "2023-10-12 16:11:00",
+        "hova": "Nyiregyháza",
+        "erkezes": "2023-10-12 17:10:00"
+    },
+    {
+        "honnan": "Debrecen",
+        "indulas": "2023-10-12 9:40:00",
+        "hova": "Békéscsaba",
+        "erkezes": "2023-10-12 10:55:00"
+    },
+    {
+        "honnan": "Békéscsaba",
+        "indulas": "2023-10-12 12:10:00",
+        "hova": "Szeged",
+        "erkezes": "2023-10-12 13:25:00"
+    } ,
+    {
+        "honnan": "Szeged",
+        "indulas": "2023-10-12 14:40:00",
+        "hova": "Békéscsaba",
+        "erkezes": "2023-10-12 15:56:00"
+    },
+    {
+        "honnan": "Békéscsaba",
+        "indulas": "2023-10-12 16:30:00",
+        "hova": "Debrecen",
+        "erkezes": "2023-10-12 17:50:00"
+    },
+    {
+        "honnan": "Salgótarján",
+        "indulas": "2023-10-12 11:20:00",
+        "hova": "Budapest",
+        "erkezes": "2023-10-12 12:40:00"
+    },
+    {
+        "honnan": "Budapest",
+        "indulas": "2023-10-12 13:55:00",
+        "hova": "Szolnok",
+        "erkezes": "2023-10-12 15:10:00"
+    }  ,  
+    {
+        "honnan": "Szolnok",
+        "indulas": "2023-10-12 16:30:00",
+        "hova": "Budapest",
+        "erkezes": "2023-10-12 17:43:00"
+    }  ,
+    {
+        "honnan": "Budapest",
+        "indulas": "2023-10-12 18:20:00",
+        "hova": "Salgótarján",
+        "erkezes": "2023-10-12 19:50:00"
+    }  ,
+    {
+        "honnan": "Kecskemét",
+        "indulas": "2023-10-12 11:20:00",
+        "hova": "Szekszárd",
+        "erkezes": "2023-10-12 13:50:00"
+    },
+    {
+        "honnan": "Szekszárd",
+        "indulas": "2023-10-12 14:30:00",
+        "hova": "Pécs",
+        "erkezes": "2023-10-12 15:56:00"
+    } ,
+    {
+        "honnan": "Pécs",
+        "indulas": "2023-10-12 16:25:00",
+        "hova": "Szekszárd",
+        "erkezes": "2023-10-12 17:30:00"
+    },
+    {
+        "honnan": "Kecskemét",
+        "indulas": "2023-10-12 18:40:00",
+        "hova": "Pécs",
+        "erkezes": "2023-10-12 19:59:00"
+    } ,
+    {
+        "honnan": "Kaposvár",
+        "indulas": "2023-10-12 11:20:00",
+        "hova": "Zalaegerszeg",
+        "erkezes": "2023-10-12 12:59:00"
+    },   
+    {
+        "honnan": "Zalaegerszeg",
+        "indulas": "2023-10-12 13:40:00",
+        "hova": "Szombathely",
+        "erkezes": "2023-10-12 14:50:00"
+    },  
+    {
+        "honnan": "Szombathely",
+        "indulas": "2023-10-12 15:20:00",
+        "hova": "Zalaegerszeg",
+        "erkezes": "2023-10-12 16:45:00"
+    }    ,
+    {
+        "honnan": "Zalaegerszeg",
+        "indulas": "2023-10-12 17:55:00",
+        "hova": "Kaposvár",
+        "erkezes": "2023-10-12 18:57:00"
+    },
+    {
+        "honnan": "Győr",
+        "indulas": "2023-10-12 12:55:00",
+        "hova": "Veszprém",
+        "erkezes": "2023-10-12 13:57:00"
+    } ,
+    {
+        "honnan": "Veszprém",
+        "indulas": "2023-10-12 14:30:00",
+        "hova": "Fejér",
+        "erkezes": "2023-10-12 15:45:00"
+    } ,
+    {
+        "honnan": "Fejér",
+        "indulas": "2023-10-12 16:57:00",
+        "hova": "Tatárbánya",
+        "erkezes": "2023-10-12 17:29:00"
+    },
+    {
+        "honnan": "Tatárbánya",
+        "indulas": "2023-10-12 18:45:00",
+        "hova": "Győr",
+        "erkezes": "2023-10-12 19:56:00"
+    }
+]

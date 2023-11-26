@@ -1,0 +1,74 @@
+[
+    {
+        "honnan": "Heathrow Airport, London",
+        "indulas": "2023-11-27 08:15:00",
+        "hova": "Roissy Airport, Paris",
+        "erkezes": "2023-11-27 13:20:00"
+    },
+    {
+        "honnan": "Roissy Airport, Paris",
+        "indulas": "2023-11-27 14:30:00",
+        "hova": "Madrid-Barajas Airport, Spain",
+        "erkezes": "2023-11-27 13:10:00"
+    },
+    {
+        "honnan": "",
+        "indulas": "2023-11-27 14:11:00",
+        "hova": "Roissy Airport, Paris",
+        "erkezes": "2023-10-12 15:11:00"
+    },
+    {
+        "honnan": "",
+        "indulas": "2023-11-27 14:30:00",
+        "hova": "Madrid-Barajas Airport, Spain",
+        "erkezes": "2023-10-12 13:10:00"
+    },
+    {
+        "honnan": "Frankfurt Airport, Germany",
+        "indulas": "2023-11-27 09:05:00",
+        "hova": "Budapest Ferenc Liszt International Airport, Hungary",
+        "erkezes": "2023-11-27 11:45:00"
+    },
+    {
+        "honnan": "Budapest Ferenc Liszt International Airport, Hungary",
+        "indulas": "2023-11-27 12:10:00",
+        "hova": "International Airport of Athens, Greece",
+        "erkezes": "2023-11-27 15:15:00"
+    },
+    {
+        "honnan": "",
+        "indulas": "2023-10-12 14:11:00",
+        "hova": "Budapest Ferenc Liszt International Airport, Hungary",
+        "erkezes": "2023-10-12 15:11:00"
+    },
+    {
+        "honnan": "",
+        "indulas": "2023-11-27 14:30:00",
+        "hova": "International Airport of Athens, Greece",
+        "erkezes": "2023-10-12 13:10:00"
+    },
+    {
+        "honnan": "Warsaw Chopin International Airport, Poland",
+        "indulas": "2023-11-27 08:15:00",
+        "hova": "Vienna International Airport, Austria",
+        "erkezes": "2023-11-27 13:20:00"
+    },
+    {
+        "honnan": "Vienna International Airport, Austria",
+        "indulas": "2023-11-27 14:30:00",
+        "hova": "Brussels Airport, Belgium",
+        "erkezes": "2023-11-27 13:10:00"
+    },
+    {
+        "honnan": "",
+        "indulas": "2023-11-27 14:11:00",
+        "hova": "Vienna International Airport, Austria",
+        "erkezes": "2023-10-12 15:11:00"
+    },
+    {
+        "honnan": "",
+        "indulas": "2023-11-27 14:30:00",
+        "hova": "Brussels Airport, Belgium",
+        "erkezes": "2023-10-12 13:10:00"
+    } 
+]
